@@ -1,0 +1,1 @@
+{"name": "qna-nodejs-bot", "version": "1.0.0", "description": "A simple QnA bot for Azure", "main": "index.js", "scripts": {"start": "node index.js"}, "dependencies": {"botbuilder": "^4.20.0", "restify": "^11.1.0", "dotenv": "^16.0.3"}}
